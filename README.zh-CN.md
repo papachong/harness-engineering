@@ -1,8 +1,6 @@
-# Symphony Service
+# Harness Engineering Service
 
 [![CI](https://github.com/papachong/harness-engineering/actions/workflows/ci.yml/badge.svg)](https://github.com/papachong/harness-engineering/actions/workflows/ci.yml)
-
-Python 版本的 OpenAI Symphony 服务实现。
 
 [English README](README.md)
 
