@@ -28,6 +28,11 @@ htmlcov/
 .symphony_workspaces/
 .symphony_runtime/
 
+# Local environment files
+.env
+.env.*
+!.env.example
+
 # IDE and OS files
 .vscode/
 .idea/
